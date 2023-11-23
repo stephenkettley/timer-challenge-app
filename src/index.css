@@ -35,7 +35,7 @@ h1 {
 
 h1 em {
   font-style: normal;
-  color: #00eeff;
+  color: #29a08a;
 }
 
 header p {
@@ -68,6 +68,7 @@ header p {
   border-bottom-right-radius: 0;
   padding: 0.25rem;
   color: #d1f0ec;
+  outline: none;
 }
 
 #player button {
